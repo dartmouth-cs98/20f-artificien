@@ -1,6 +1,6 @@
 # Artificien
 
-![Team Photo](https://i.ibb.co/dprzDQZ/team-photo.png)
+![Team Photo](https://i.ibb.co/8XQYpjZ/artificien-logo.png)
 
 Artificien is a federated learning marketplace. It connects data scientists looking to train models with app developers that have access to data, and trains such models remotely on-device using Pysyft's federated learning library.
 
