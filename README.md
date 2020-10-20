@@ -29,4 +29,3 @@ TODO: how to deploy the project
 * Alexander Quill '21
 
 ## Acknowledgments
-
