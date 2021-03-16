@@ -10,8 +10,12 @@ Artificien is a federated learning marketplace. It connects data scientists look
 - Code to spawn single-user jupyter servers to allow clients to work with sample data and build their models is stored in the [Artificien Jupyter Repository](https://github.com/dartmouth-cs98/artificien_jupyter). 
 - Infrastructure code is stored in the [Artificien Infrastructure Repository](https://github.com/dartmouth-cs98/artificien_infrastructure). The infrastructure includes a DynamoDB (NoSQL database) utilized by the Marketplace, the severless backend, an AWS Amplify deployment which is used to continuously deploy the frontend in [Artificien Marketplace Repository](https://github.com/dartmouth-cs98/artificien_marketplace) and connect it to associated backend resources. The infrastructure repository also deploys AWS Cognito, a service which allows our users to sign up and sign in to the website.
 - iOS code stored in [Artificien iOS Repository](https://github.com/dartmouth-cs98/artificien_ios). This will be used for a demo application that stores user data and exposes it to the Artificien platform for learning/analysis.
+- iOS cocoapod for app developers to integrate their app with Artificien is store in [Artificien_iOS_Library Repository](https://github.com/dartmouth-cs98/artificien_ios_library)
 - Jupyter Notebooks used as test examples to test the federated learning workflow will be stored in the [Artificien Experimental Repository](https://github.com/dartmouth-cs98/artificien_experimental)
-
+- Fake data generations to provide sample data to users is also in [Artificien Experimental Repository](https://github.com/dartmouth-cs98/artificien_experimental)
+- Artificien's master node service that orchestrates federated learning for multiple apps and users is in [Artificien Orchestration Node Repository](https://github.com/dartmouth-cs98/artificien_orchestration_node)
+- Artificien's python library for building pytorch models compatible with federated learning and Artificien's infrastructure [Artificien Python Library](https://github.com/dartmouth-cs98/artificien_python_library)
+- 
 ## Setup & Deployment
 
 Please see each of the individual repositories for details about their development.
