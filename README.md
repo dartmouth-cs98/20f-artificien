@@ -15,7 +15,7 @@ Artificien is a federated learning marketplace. It connects data scientists look
 - Fake data generations to provide sample data to users and notebooks containing various custom federated learning optimizers and other R&D notebooks is in [Artificien Experimental Repository](https://github.com/dartmouth-cs98/artificien_experimental)
 - Artificien's master node service that orchestrates federated learning for multiple apps and users is in [Artificien Orchestration Node Repository](https://github.com/dartmouth-cs98/artificien_orchestration_node)
 - Artificien's python library for building pytorch models compatible with federated learning and Artificien's infrastructure [Artificien Python Library](https://github.com/dartmouth-cs98/artificien_python_library)
-- 
+- Artificien's edits to pygrid service, the open source library that underpins our federated learning implementation is in [Artificien PyGrid Fork](https://github.com/dartmouth-cs98/artificien_pygrid_fork)
 ## Setup & Deployment
 
 Please see each of the individual repositories for details about their development.
